@@ -1,0 +1,40 @@
+p{
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+h2{
+  font-size: 35px;
+  font-family: 'Montserrat', sans-serif;
+}
+b{
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+}
+button{
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+}
+ul{
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+}
+th {
+background-color: #862f9c;
+color: white;
+}
+a:link{
+color:#c47dff;
+}
+a:visited{
+color:#c47dff;
+}
+a:active{
+color:#c47dff;
+}
+a:hover{
+color:#9a58d1;
+}
