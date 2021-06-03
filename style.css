@@ -47,3 +47,18 @@ color:#9a58d1;
   color: white;
   background: #b035f2;
 }
+.dis:hover{
+  color: white !important;
+}
+.dis:active{
+  color: white !important;
+}
+.dis:link{
+  color: white !important;
+}
+.dis:visited{
+  color:white !important;
+}
+#tele{
+  padding-left: 15px !important;
+}
