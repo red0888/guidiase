@@ -38,3 +38,12 @@ color:#c47dff;
 a:hover{
 color:#9a58d1;
 }
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: #b035f2;
+}
+
+::selection {
+  color: white;
+  background: #b035f2;
+}
