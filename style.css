@@ -71,12 +71,11 @@ color:#9a58d1;
   background: #f1f1f1;
 }
 
-/* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #e252ff;
+  background: #a617c2;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #9726ad;
+  background: #7f1394;
 }
