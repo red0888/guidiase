@@ -48,16 +48,16 @@ color:#9a58d1;
   background: #b035f2;
 }
 .dis:hover{
-  color: white !important;
+  color: #680091 !important;
 }
 .dis:active{
-  color: white !important;
+  color: #680091 !important;
 }
 .dis:link{
-  color: white !important;
+  color: #680091 !important;
 }
 .dis:visited{
-  color:white !important;
+  color: #680091 !important;
 }
 #tele{
   padding-left: 15px !important;
